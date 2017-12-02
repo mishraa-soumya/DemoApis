@@ -1,0 +1,16 @@
+{
+    "data": [
+      {
+        "label": [ "2 Cup of Green Tea", "2 slice of bread with peanut butter" ],
+        "price": 50
+      },
+      {
+        "label": [ "2 Cup of Assam Tea", "Chinese Poha" ],
+        "price": 150
+      },
+      {
+        "label": [ "2 Cup of Lemon Tea", "250gm pack of cookies" ],
+        "price": 50
+      }
+    ]
+}
