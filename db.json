@@ -1,52 +1,52 @@
 {
-    "store": [{
-      "data": [
-        {
-          "id": 1,
-          "label": [ "2 Cup of Green Tea", "2 slice of bread with peanut butter" ],
-          "price": 50
-        },
-        {
-          "id": 2,
-          "label": [ "2 Cup of Assam Tea", "Chinese Poha" ],
-          "price": 150
-        },
-        {
-          "id": 3,
-          "label": [ "2 Cup of Lemon Tea", "250gm pack of cookies" ],
-          "price": 50
-        },
-        {
-          "id": 4,
-          "label": [ "2 Cup of Green Tea", "2 paneer pakoda" ],
-          "price": 50
-        },
-        {
-          "id": 5,
-          "label": [ "2 Cup of Assam Tea", "Plate of Vegetable Maggi" ],
-          "price": 75
-        },
-        {
-          "id":  6,
-          "label": [ "2 Cup of Lemon Tea", "Plate of Bread Poha" ],
-          "price": 50
-        }
-      ]
-    }],
-    "bag": [{
-      "items": [
-        {
-          "id": 1,
-          "label": [ "2 Cup of Green Tea", "2 slice of bread with peanut butter" ],
-          "price": 50
-        },
-        {
-          "id": 2,
-          "label": [ "2 Cup of Assam Tea", "Chinese Poha" ],
-          "price": 150
-        }
-      ],
-      "total": 200.00,
-      "itemcount": 2
-    }]
+  "store": [{
+    "data": [
+      {
+        "id": 1,
+        "label": [ "2 Cup of Green Tea", "2 slice of bread with peanut butter" ],
+        "price": 50
+      },
+      {
+        "id": 2,
+        "label": [ "2 Cup of Assam Tea", "Chinese Poha" ],
+        "price": 150
+      },
+      {
+        "id": 3,
+        "label": [ "2 Cup of Lemon Tea", "250gm pack of cookies" ],
+        "price": 50
+      },
+      {
+        "id": 4,
+        "label": [ "2 Cup of Green Tea", "2 paneer pakoda" ],
+        "price": 50
+      },
+      {
+        "id": 5,
+        "label": [ "2 Cup of Assam Tea", "Plate of Vegetable Maggi" ],
+        "price": 75
+      },
+      {
+        "id":  6,
+        "label": [ "2 Cup of Lemon Tea", "Plate of Bread Poha" ],
+        "price": 50
+      }
+    ]
+  }],
+  "bag": [{
+    "items": [
+      {
+        "id": 1,
+        "label": [ "2 Cup of Green Tea", "2 slice of bread with peanut butter" ],
+        "price": 50
+      },
+      {
+        "id": 2,
+        "label": [ "2 Cup of Assam Tea", "Chinese Poha" ],
+        "price": 150
+      }
+    ],
+    "total": 200.00,
+    "itemcount": 2
+  }]
 }
