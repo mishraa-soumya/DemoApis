@@ -1,7 +1,7 @@
 {
     "data": [
       {
-        "label": [ "3 Cup of Green Tea", "2 slice of bread with peanut butter" ],
+        "label": [ "2 Cup of Green Tea", "2 slice of bread with peanut butter" ],
         "price": 50
       },
       {
@@ -10,6 +10,18 @@
       },
       {
         "label": [ "2 Cup of Lemon Tea", "250gm pack of cookies" ],
+        "price": 50
+      },
+      {
+        "label": [ "2 Cup of Green Tea", "2 paneer pakoda" ],
+        "price": 50
+      },
+      {
+        "label": [ "2 Cup of Assam Tea", "Plate of Vegetable Maggi" ],
+        "price": 75
+      },
+      {
+        "label": [ "2 Cup of Lemon Tea", "Plate of Bread Poha" ],
         "price": 50
       }
     ]
