@@ -3,7 +3,7 @@
       {
         "id": 1,
         "label": [ "2 Cup of Green Tea", "2 slice of bread with peanut butter" ],
-        "price": 50
+        "price": 150
       },
       {
         "id": 2,
@@ -11,7 +11,6 @@
         "price": 150
       }
     ],
-    "total": 200.00,
+    "total": 300.00,
     "itemcount": 2
 }
-
